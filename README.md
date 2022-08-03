@@ -6,8 +6,9 @@ Build a Tabs Project App using ReactJS.
 
 ## Description
 
+- Simple tabs project from @johnsmilga.
 - Project aims to create a Tabs Project App.
-- Simple Tabs project for improve fetching data and useEffect hook knowledge.
+- This projects aim to improve fetching data and useEffect hook knowledge.
 
 ## Project Link
 
