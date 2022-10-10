@@ -43,7 +43,7 @@ SOLUTION
 ### Installation
 
 ```
-$ git clone https://github.com/esadakman/tabs-project.git
+$ git clone https://github.com/esadakman/reactjs-tabs-project.git
 $ cd ../tabs-project
 $ npm install / yarn
 $ npm start / yarn start
